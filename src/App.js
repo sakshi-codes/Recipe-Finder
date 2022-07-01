@@ -92,7 +92,7 @@ function App() {
         Recipe Finder
       </AppNameComponent>
       <SearchComponent>
-      <SearchIcon src="search-icon.svg"/>
+      <SearchIcon src="search .png"/>
       <SearchInput placeholder="Search Recipe" onChange={onTextChage}/>
       </SearchComponent>
     </Header>
