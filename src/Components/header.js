@@ -7,7 +7,7 @@ display:flex;
 flex-direction:row;
 align-items:center;
 justify-content:space-between;
-padding:20px;
+padding:15px;
 font-size:25px;
 font-weight:bold;
 box-shadow: 0 3px 6px 0 #555;
