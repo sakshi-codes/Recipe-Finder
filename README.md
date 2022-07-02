@@ -1,5 +1,8 @@
 # Recipe-Finder
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sakshi%20Gupta-red)
+<br>
+<br>
+To check it out, visit [this link](https://sakshi-codes.github.io/Recipe-Finder/)!
 ## Specifications
 - React for devloping Recipe Finder Web App
 - styled-component for UI
