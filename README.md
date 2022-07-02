@@ -4,7 +4,7 @@
 <br>
 To check it out, visit [this link](https://sakshi-codes.github.io/Recipe-Finder/)!
 ## Specifications
-- React for devloping Recipe Finder Web App
+- React for developing Recipe Finder Web App
 - styled-component for UI
 - API: https://www.edamam.com/
 ## Screenshots
